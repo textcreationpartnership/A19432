@@ -1,0 +1,781 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A very short and pithie catechisme verie profitable for all that will come prepared to the Supper of the Lord: VVith a forme of confessyon, prayer and thanks giuing, very necessary and comfortable for all christian families. Made by Bartimeus Andrewes, preacher of the word of God at great Yarmouth: published at the request of the vvorshipfull and godlie magistrates there.</title>
+            <author>Andrewes, Bartimaeus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1586</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19432</idno>
+            <idno type="STC">STC 586</idno>
+            <idno type="STC">ESTC S108527</idno>
+            <idno type="EEBO-CITATION">99844185</idno>
+            <idno type="PROQUEST">99844185</idno>
+            <idno type="VID">8974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8974)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 165:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A very short and pithie catechisme verie profitable for all that will come prepared to the Supper of the Lord: VVith a forme of confessyon, prayer and thanks giuing, very necessary and comfortable for all christian families. Made by Bartimeus Andrewes, preacher of the word of God at great Yarmouth: published at the request of the vvorshipfull and godlie magistrates there.</title>
+                  <author>Andrewes, Bartimaeus.</author>
+               </titleStmt>
+               <extent>[80] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. Charlewood,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1586.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-E (E8 blank).</note>
+                  <note>Imperfect; D7 lacking.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8974:1"/>
+            <pb facs="tcp:8974:1" rendition="simple:additions"/>
+            <p>A very ſhort and pithie <hi>Ca<g ref="char:EOLhyphen"/>techiſme: verie profitable for</hi> all that will come prepared to the Supper of the Lord: VVith a forme of con<g ref="char:EOLhyphen"/>feſſyon, prayer and thanks giuing, Very neceſſary and comfortable for all Chriſtian Families.</p>
+            <p>
+               <hi>Made by Bartimeus Andrewes, Preacher of the word of God at great Yarmouth: Publi<g ref="char:EOLhyphen"/>shed at the requeſt of the vvorshipfull and godlie Magistrates there.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Deute.</hi> 6.6.7.8.</bibl>
+               <p>
+                  <bibl>6</bibl> And theſe words which I commaunde thee this day ſhall be in thy hart.</p>
+               <p>
+                  <bibl>7</bibl> Thou ſhalt rehearſe them continually vnto thy Children, and ſhalt talke of them when thou tarrieſt in thy houſe, and as thou walkeſt by the way, and when thou lyeſt downe, &amp; when thou ryſeſt vppe.</p>
+               <p>
+                  <bibl>8</bibl> And thou ſhalt binde them for a ſigne vppon thine hand, and they ſhalbe as frontlets between thine eyes. &amp;c.</p>
+               <bibl>1. Peter. 3.15.</bibl>
+               <p>
+                  <bibl>15</bibl> 
+                  <hi>But ſanctify the Lord God in your harts, and be ready alwayes to giue an anſwere to euery man that aſketh you a reaſon of the hope that is in you, with méekenes and reuerence.</hi>
+               </p>
+            </q>
+            <p>AT LONDON, Printed by I. Charlewood. 1586.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:8974:2"/>
+            <pb facs="tcp:8974:2"/>
+            <head>To the right worſhipfull and my deerelye beloued in the Lord, <hi>M. Baileifes</hi> of great Yarmouth, with the reſidue of the worſhipfull Brethren, &amp; the whole congregation there, B. A. wyſheth increaſe of all true ioy, and peace, with the mul<g ref="char:EOLhyphen"/>tiplying of all ſpirituall graces vpon your ſoules, to the fulfilling of your ſaluation in Chriſt Ieſus. A<g ref="char:EOLhyphen"/>men.</head>
+            <p>HAuing drawne a verye briefe and ſmall Catechiſme (wor<g ref="char:EOLhyphen"/>ſhipful M. <hi>Baileifes,</hi> and the reſidue of my deere Brethren) for the priuate inſtruction of the pe<g ref="char:EOLhyphen"/>tites and families of this great con<g ref="char:EOLhyphen"/>gregation, for the better preparing of them to the reuerent vſe of the holy Supper of the Lord, and being required by your godly Paſtor, and diuers other, to haue it publiſhed for the more eaſie helpe of the ſim<g ref="char:EOLhyphen"/>ple and ignoraunt. I, your vnwor<g ref="char:EOLhyphen"/>thy Teacher, beeing ready to doo what duetie I can, for the furthe<g ref="char:EOLhyphen"/>raunce of your ſaluation general<g ref="char:EOLhyphen"/>ly,
+<pb facs="tcp:8974:3"/> which I wiſh and long for, from my verye heart roote in Chriſt Ie<g ref="char:EOLhyphen"/>ſus: haue thought good to prefixe theſe fewe words in way of dedica<g ref="char:EOLhyphen"/>tion of this ſmall thing, to your worſhippe, and the reſidue: preſu<g ref="char:EOLhyphen"/>ming vppon your Chriſtian allow<g ref="char:EOLhyphen"/>ance of my well meaning, hauing added heerevnto a certaine forme of confeſſion, prayer, &amp; thankſgiuing, though plaine, yet I hope neceſſa<g ref="char:EOLhyphen"/>rie, and comfortable for the vſe of the Chriſtian Families of your con<g ref="char:EOLunhyphen"/>gregation. And ſith God hath by his owne hand, ſette your worſhips in the place of ciuill gouernment, in this your corporation, graunted by the noble progenitors of her Ma<g ref="char:EOLhyphen"/>ieſtie, and continued ſtil, and vphol<g ref="char:EOLhyphen"/>den by her gracious bounty. Let me bee ſo bolde with you, as in a word to put you in minde, and the reſidue of your worſhipfull co<g ref="char:cmbAbbrStroke">̄</g>pany eligible to that office, what thinges are moſt neceſſary for you to looke vnto in that charge. God hath gy<g ref="char:EOLhyphen"/>uen
+<pb facs="tcp:8974:3"/> you a benefite and priuiledge of liberty, not common to all her Ma<g ref="char:EOLhyphen"/>ieſties people, that you might the better bee fortified with meanes to further Gods glorie in your charge: and becauſe I perſwade my ſelfe of the readines of you, and the reſidue of your Brethren, to ſet your hands and helpe to each lawful thing, ten<g ref="char:EOLhyphen"/>ding to Gods glory, agreeable to his word, which you all ſolemnly pro<g ref="char:EOLhyphen"/>miſed at my firſte entrie amongſt you, and haue ſomewhat approued the ſame, by your electing both of faithfull &amp; helpfull miniſters of the word, as alſo of ſo wiſe and godlie a Steward among you, I reſolue my ſelfe of the good ſucceſſe of my la<g ref="char:EOLhyphen"/>bours, &amp; of your willing obeiſance to the Lordes wyll propounded in his word. You muſt know that the burthen of this people lieth vppon your ſhoulders, and that their eyes looke at you, as thoſe by whoſe ex<g ref="char:EOLhyphen"/>ample the people either periſh and fall, or are preſerued and ſtaied vp,
+<pb facs="tcp:8974:4"/> for the fall and vpryſing of manie dependeth vpon publique perſons. Therefore in a Magiſtrate, firſt is required a religious minde, acquain<g ref="char:EOLhyphen"/>ted with Gods counſel in his word, that hee exerciſing himſelfe therein <hi>day and night,</hi>
+               <note place="margin">Pſal, 1 2,</note> might growe wyſe in the Lords cauſes: for this charge is laide vpon you from the Lorde, to applie your ſelues to the worde of God, for ſo it is ſaide of the Magi<g ref="char:EOLhyphen"/>ſtrate, Deu. 17.<note place="margin">Deu. 17 19,</note> 
+               <hi>The word shalbe with him, and he shall reade therein all the dayes of his life, that he may learne to feare the Lord his God, and to keepe all the wordes of this Lawe to doo them. &amp;c.</hi>
+               <note place="margin">Ioſu. 1.8,</note> Alſo Ioſhua is ſtraightly char<g ref="char:EOLhyphen"/>ged: <hi>Let not this booke of the Lawe depart out of thy mouth, but meditate therein day and night, that thou mayſt doo according to all that is written therein, then shalt thou make thy way proſperous &amp;c.</hi> So Iethro commaun<g ref="char:EOLunhyphen"/>deth Moſes, to chuſe men fearing God. Exo. 18.<note place="margin">Exo, 18, 21</note> 
+               <hi>Prouide you among all the people men of good courage, fea<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:8974:4"/> God, men dealing truely, hating couetouſnes, and appoint them to bee Rulers, &amp;c.</hi> So as you ſee that Ma<g ref="char:EOLhyphen"/>giſtrates muſt be religious, and alſo <hi>men of courage,</hi>
+               <note place="margin">Ioſu. 2, 7, Exo, 18 21,</note> to execute iuſtice in all cauſes, not corrupt with gyftes, nor accepting the faces of menne, without fooliſh pittie, or faint-har<g ref="char:EOLhyphen"/>ted feare, and without crueltie or re<g ref="char:EOLunhyphen"/>uenging affections, but of al meek<g ref="char:EOLhyphen"/>nes &amp; lenitie. They muſt performe all faythfulnes and truth with equi<g ref="char:EOLhyphen"/>tie, as thoſe that are members of the ſame bodie, appointed to ſee diſtri<g ref="char:EOLhyphen"/>butiue and equall iuſtice to bee ad<g ref="char:EOLhyphen"/>miniſtred to eache man according<g ref="char:EOLhyphen"/>lie, for ſo Moſes requireth, that <hi>they shalbe men dealing truely,</hi>
+               <note place="margin">Exo, 18, 21,</note> ſo as they muſt not looke to men, but to the cauſes, taking heede of that caueat that Moſes giueth. Exo. 23.<note place="margin">Exo, 23 12,</note> 
+               <hi>Thou shalt not receiue a falſe tale, thou shalt not follow a multitude to doo euill, ney<g ref="char:EOLunhyphen"/>ther agree in a controuerſie to decline after many, and ouerthrow the trueth, &amp;c.</hi> Neither muſt ſuch neglect the
+<pb facs="tcp:8974:5"/> execution of iuſtice againſt the of<g ref="char:EOLhyphen"/>fenders, either for feare of reproche or rebuke, leaſt they countenaunce ſinne thereby, and beare the guylt of other mens fals.<note place="margin">Eccl. 8, 11</note> For <hi>becauſe ſen<g ref="char:EOLhyphen"/>tence against an euyl worke is not exe<g ref="char:EOLhyphen"/>cuted ſpeedely, therfore the hart of the Chyldren of men is fully ſette in them to doo euill.</hi>
+               <note place="margin">Exo. 18 21.</note> In all theſe thinges <hi>Co<g ref="char:EOLhyphen"/>uetouſnes</hi> muſt be ſhunned, the ſtep<g ref="char:EOLhyphen"/>mother and ouerthrower of all iu<g ref="char:EOLhyphen"/>ſtice and truth, which throweth out the harts euen of the wiſe to manie noiſome luſtes, <hi>which drowne men in perdition:</hi>
+               <note place="margin">1, Tim, 6, 9, 10</note> verie daungerous to men of wealth or authority, and euer weighting vpo<g ref="char:cmbAbbrStroke">̄</g> that degree of men. VVherefore I beſeeche you, good my worſhipfull Brethren, vouch<g ref="char:EOLhyphen"/>ſafe the accepting of theſe inſtructi<g ref="char:EOLhyphen"/>ons written in haſt, with a minde vnfeynedlie wiſhing you all good. Be you preſidents in godly &amp; ſober exa<g ref="char:cmbAbbrStroke">̄</g>ple to this great people, ouerſee your own houſholds firſt, that they may be patterns &amp; lights of godlie
+<pb facs="tcp:8974:5"/> diſcipline to others. Remember Io<g ref="char:EOLhyphen"/>ſhua his proteſtation,<note place="margin">Ioſu. 2.4</note> 
+               <hi>I and my houſ<g ref="char:EOLhyphen"/>holde wyll ſerue the Lord.</hi> Remem<g ref="char:EOLhyphen"/>ber Nehemiah,<note place="margin">Nehe. 5.</note> who enforced hys owne example and his ſeruantes, to perſwade his brethren to iuſtice and loue.<note place="margin">Act. 10.</note> Remember how <hi>Cornelius and his houshold feared God.</hi> Nowe then beloued, as you loue the Lorde, as you tender your owne ſoules, and your charges, as you beare naturall affection to your common ſafetie, and happines, I beſeeche you in the bowels of Ieſus Chriſt, indeuour to theſe thinges, both ſmall and great, that you may profite in the worke of your ſaluation, ſo ſhall you be fa<g ref="char:EOLhyphen"/>mous in the church of God &amp; com<g ref="char:EOLunhyphen"/>mon weale, you ſhal glad the ſoules of vs, that labor amongſt you in the word, you ſhal bring glory to God, &amp; eternal happines to your ſelus in the day of Chriſt Ieſus. Let Gods boke be orderlie read with reuere<g ref="char:cmbAbbrStroke">̄</g>ce, daily in your families, let prayer be exerciſed in your houſholdes and
+<pb facs="tcp:8974:6"/> vouchſafe to helpe them in this ſmall Ca<g ref="char:EOLhyphen"/>techiſme, that they may be fitte for further inſtruction. Giue dilligence to harken to the word of lyfe, and to put in vre theſe fewe prayers in this little booke or other, with humili<g ref="char:EOLhyphen"/>tie, reuerence, a liuelie ſence and fee<g ref="char:EOLhyphen"/>ling of your miſerie, faith, thankful<g ref="char:EOLunhyphen"/>nes, hope, and with vnfained deſire of profiting in all dueties, of fayth and loue towards God &amp; your bre<g ref="char:EOLhyphen"/>thren. For <hi>I liue if you stande in the fayth:</hi> and ſith God hath vouchſa<g ref="char:EOLhyphen"/>fed the bleſſed tidinges of ſaluation vppon you in the miniſtrie of hys word, embrace it with thankfulnes, and ſtudie for all chriſtian peace and vnitie among your ſelues, fearing God, furthering his holye religion, and all dueties of loue among men, that ſo our Towne may flouriſhe and proſper in all thinges, otherwiſe wee can hope of no bleſſing at the hand of God. There is great cauſe why care ſhould bee hadde heerein. Your Towne bordering vppon the
+<pb facs="tcp:8974:6"/> ſea, is in perrill to forraine inuaſi<g ref="char:EOLhyphen"/>ons, and to be ſteyned with the cor<g ref="char:EOLhyphen"/>rupt manners of other Countries, to drinke in iniquitie euen as water, therefore the more care to be hadde ouer it. Chriſt ſawe ſuch Townes bordering on the Seas to be in moſt daunger ſundrie wayes, and there<g ref="char:EOLhyphen"/>fore freque<g ref="char:cmbAbbrStroke">̄</g>ted them moſt, &amp; vouch<g ref="char:EOLhyphen"/>ſafed his preſence &amp; doctrine chief<g ref="char:EOLhyphen"/>lieſt amongſt them. This is my ſute to your worſhippes, this is my ſute to the whole company, to the whole congregation, yea to euery ſoule amongſt you,<note place="margin">Phil, 2, 1,</note> 
+               <hi>If ye euer recei<g ref="char:EOLhyphen"/>ued comfort in Chriſt, if euer you had loue to the brethren, if euer any felow<g ref="char:EOLunhyphen"/>ship of the ſpirit, if any compaſsion &amp; mercy, that you fulfyll my ioy,</hi> Euen in this, to be of one minde in doc<g ref="char:EOLhyphen"/>trine, of one conſent in a godly and chriſtian life, to apply all dueties of Gods worſhip, to haue care of your families, inſtructing, teaching, and calling vpon them to be catechiſed, to reade &amp; heare the word, bee your
+<pb facs="tcp:8974:7"/> ſelues forward therein, exerciſyng prayer, reading and hearing of the word, in faith &amp; good conſcience, that ſo by chriſtian exerciſes, your faith and obedience may be increa<g ref="char:EOLhyphen"/>ſed, your families reformed, your Towne happily gouerned, that o<g ref="char:EOLhyphen"/>thers may take example by you, God may be glorified, all ſpirituall bleſſings may be heaped vpon you, and continued to your poſterity af<g ref="char:EOLhyphen"/>ter you, vnto many generations, your ſelues may in the ende receiue the poſſeſſion of euerlaſting life, with Chriſt Ieſus in the kingdome of God: to whoſe bleſſed tuition I commend you, and yours, pray<g ref="char:EOLhyphen"/>ing the Lorde to multiplye all hys graces, and mercies vppon you, and the whole people, to keepe you in ſafetie from the daunger of ene<g ref="char:EOLhyphen"/>mies, to ſanctify you in his trueth, to bleſſe you in your gouernment, the people in obeying, and to make you perfitte in all good workes, to
+<pb facs="tcp:8974:7"/> doo his wyll, working in you that which is pleaſant in his ſight, tho<g ref="char:EOLhyphen"/>rough Ieſus Chriſte. To whome with the Father and the holy ſpirit be all prayſe and honor for euer and euer. Amen.</p>
+            <closer>
+               <signed>Your worſhips to vſe in in the Lord, hartely deſirous of your good and ſalua<g ref="char:EOLhyphen"/>tion in Chriſt Ieſus. B. Andrewes.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:8974:8"/>
+            <head>
+               <hi>An order of prayer, or a preparation to the reading of the word in your families.</hi> Let vs prepare and stirre vppe our mindes by prayer, that we may reade the word of God with profite.</head>
+            <p>O Lord our God, who in thy wiſedome and mercy haſt appointed thy holie worde as the wholeſome nouriſhment of our ſoules, that by reading, hearing, and muſing thereon, we might growe vppe vnto ſaluati<g ref="char:EOLhyphen"/>on: Wee beſeeche thee to pardon all our ſinnes, for Ieſus Chriſte his ſake, take away the corrupti<g ref="char:EOLhyphen"/>on of our nature, purge and ſanc<g ref="char:EOLhyphen"/>tify our harts, that we may read thy word at all times with reue<g ref="char:EOLhyphen"/>rent mindes, ſo as we may daily
+<pb facs="tcp:8974:8"/> be borne againe, confyrmed in faith, reformed in our manners, furthered in knowledge and obe<g ref="char:EOLunhyphen"/>dience, ſtrengthened againſt all temptations, furniſhed with pa<g ref="char:EOLhyphen"/>tience againſt all tryals, and fy<g ref="char:EOLhyphen"/>nally be made fruitfull in al good workes, reſembling thy Image, and growing vppe into full holi<g ref="char:EOLhyphen"/>nes &amp; righteouſnes in thy ſight, til we are perfited in the hea<g ref="char:EOLhyphen"/>uens with Chriſt Ieſus our Lord. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>Let vs harken with reuerence to the holie word of the Lord our God written in ſuch or ſuch a Cha<g ref="char:EOLhyphen"/>piter and Booke. &amp;c.</p>
+         </div>
+         <div type="catechism">
+            <pb facs="tcp:8974:9"/>
+            <pb facs="tcp:8974:9"/>
+            <head>
+               <hi>A breefe and ſhort</hi> Ca<g ref="char:EOLhyphen"/>techiſme, made for the vſe of hous<g ref="char:EOLhyphen"/>holdes, and to be learned of all thoſe that vvill be admitted to the Lords Supper. By <hi>B. A.</hi>
+            </head>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>TO what ende did God make you?</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>That I might ſerue him ac<g ref="char:EOLhyphen"/>cording to his worde,<note place="margin">Lu, 1, 74 Eph, 4, 24</note> by dooing his wil, in righteouſnes and true holines all my life.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>VVhere shall you learne what is thys wyll of God?</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>In his word and Lawe.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Rehearſe that Law of God.</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>
+               <hi>God ſpake and ſaid,</hi>
+               <note place="margin">Exo. 20,</note> 
+               <hi>I am the Lord thy God. &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>
+               <hi>VVhat cheefely doth thys lawe require
+<pb facs="tcp:8974:10"/> of you?</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>Firſt, that I ſhoulde acknow<g ref="char:EOLhyphen"/>ledge<note n="(a)" place="margin">Deut, 6 4,</note> one onely God, &amp; ſerue him in all purenes,<note n="(b)" place="margin">De. 6.5, et 10, 12 Luk, 10 27 Ma, 22, 37,</note> with all my hart, ſoule, minde, ſtrength, will, and thoughts, in all thinges according to his worde. Second<g ref="char:EOLhyphen"/>lie, that I ſhoulde walke in<note n="(c)" place="margin">Mat 22, 39 Ro. 13 8, 7, 10</note> loue, faithfulnes, and trueth with all men, dooing dueties of conſci<g ref="char:EOLhyphen"/>ence in my calling, and<note n="(d)" place="margin">Le. 19, 8,</note> louing my neighbour as my ſelfe.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Are you able of your ſelfe to doo hys wyll, and keepe this his Lawe?</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>Nothing leſſe.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>VVhy ſo.</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>Becauſe of my corrupt nature, which<note n="(a)" place="margin">Ro. 5, 18</note> with <hi>Adam</hi> is fallen from the ſtate of innocencie,<note n="(b)" place="margin">Ro, 8, 7</note> and ſo is not obedient to the law of GOD.</p>
+            <pb facs="tcp:8974:10"/>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>VVhat are you by nature then?</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>The<note n="(a)" place="margin">Eph, 2, 3</note> childe of wrath and<note n="(b)" place="margin">Ro, 6, 20</note> a ſinner.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>VVhat is ſinne.</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>Euerie<note n="(a)" place="margin">1, Ioh. 3, 4</note> breaking or<note n="(b)" place="margin">Neh, 9, 34 Heb, 2, 3,</note> neg<g ref="char:EOLhyphen"/>lecting of anie commandement of God, and<note n="(c)" place="margin">Neh, 1, 7 Gal, 3.10</note> the not dooing of euerie duetie commanded is ſin.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>VVhat is the rewarde of ſinne.</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>The<note n="(a)" place="margin">Gal. 3, 10</note> curſe of God,<note n="(b)" place="margin">Ro. 6, 23</note> &amp; death with<note n="(c)" place="margin">Mar, 9 48 Mat, 25 46 2, Theſ. 1, 9, Eze, 18, 20</note> euerlaſting woe and per<g ref="char:EOLunhyphen"/>dition, of ſoule and bodie.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Then by euery breaking of the Lawe, you dayly deſerue death, and procure Gods curſe.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>It is verie true.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>How shall you be freed from this curſe</hi>
+            </p>
+            <pb facs="tcp:8974:11"/>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>
+               <note place="margin">Ga, 3, 13</note>By Ieſus Chriſt my Sauiour and redeemer.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>VVhat did he for you.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>He was both<note n="(a)" place="margin">Ro, 9, 5 Col, 2 9 He, 1, 3,</note> perfit God that he might be able<note n="(b)" place="margin">He, 2, 14,</note> to ouercome death for me, and alſo he was perfect<note n="(c)" place="margin">Mat 1, 25, Ga, 4, 4</note> man, that he might<note n="(d)" place="margin">Heb 2, 11, Col, 1 22,</note> ſuffer death and Gods wrath for my ſinnes, and ſo in bothe theſe natures together, he fully ſatiſ<g ref="char:EOLhyphen"/>fied the iuſtice of God for me, and purchaſed my ſaluation.</p>
+            <p>
+               <hi>Miniſter</hi>
+            </p>
+            <p>
+               <hi>VVhat moued God thus to ſaue you.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>His owne meere loue, fauoure and mercie, without any reſpect of my worthines.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>How are you aſſured of this mercy of GOD.</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>By a true faith in Chriſt.</p>
+            <pb facs="tcp:8974:11"/>
+            <p>
+               <hi>Miniſter</hi>
+            </p>
+            <p>
+               <hi>Rehearſe the ſumme of your fayth.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>
+               <hi>I beleeue in God the father almigh<g ref="char:EOLhyphen"/>tie. &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>VVhat breefely doo you gather out of theſe articles.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>My faith is aſſured heerein, that God the father<note n="(a)" place="margin">Ioh. 3.1</note> of his owne good will,<note n="(b)" place="margin">Rom, 8, 3 Eph. 5, 2 Tit, 2, 14,</note> gaue his ſonne Ie<g ref="char:EOLhyphen"/>ſus Chriſt, very God and man to redeeme mee from ſinne by hys death and paſſion, &amp;<note n="(c)" place="margin">Rom. 8, 9 2, Cor, 5, 5, 1, Ioh. 4, 13,</note> ſending out his holie ſpirite into mee, to cauſe Chriſt his<note n="(d)" place="margin">Rom, 8, 10.</note> death &amp; life to be effectuall to renue me<note n="(e)" place="margin">et 6, 4.</note> in<g ref="char:EOLhyphen"/>to a new life, he hath made me of his Church and companie of be<g ref="char:EOLhyphen"/>leeuers, ſanctifyed to doo hys will here, &amp; to glorifie him in euerla<g ref="char:EOLhyphen"/>ſting life in the world to come.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>VVherefore dyd Christ thus ſuffer and dye.</hi>
+            </p>
+            <pb facs="tcp:8974:12"/>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>
+               <note place="margin">Ro. 4, 25</note>For my ſinnes.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat profite haue you by his death.</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>I haue<note n="(a)" place="margin">Epheſi, 1.7,</note> forgiuenes of ſinnes,<note n="(b)" place="margin">Ro. 6, 6,</note> the mortification of my fleſh, and the<note n="(c)" place="margin">Col 1, 20,</note> appeaſing of Gods wrath.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat meane you by his deſcending into hell.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>Not that Chriſt went into the place of torments with his ſoule or bodie, but that for a time he<note n="(a)" place="margin">Eſa. 53, 4, 5,</note> felt his Fathers wrath, and the<note n="(b)" place="margin">Act 2, 24.</note> dolers of eternall death in his<note n="(c)" place="margin">Mat 26, 38, 42 Luke 22, 43 Hebr, 5 7</note> ſoule and conſcience heere on earth for vs, that hee might bee a redeemer as well of the ſoule as of the body.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat profit haue you by his reſurrec<g ref="char:EOLhyphen"/>tion?</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <pb facs="tcp:8974:12"/>
+            <p>I haue<note n="(a)" place="margin">Ro. 4, 15</note> righteouſnes a gage<note n="(b)" place="margin">1, Cor, 15, 20.</note> of my immortality, and<note n="(c)" place="margin">Rom, 6 4</note> newnes of life.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat vſe make you of the article con<g ref="char:EOLunhyphen"/>cerning the holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>I learne therein, y<hi rend="sup">t</hi> it is God the holy<note n="(a)" place="margin">Ioh, 6, 63, et 14, 26</note> ghoſt only which maketh Chriſt his death and life profita<g ref="char:EOLhyphen"/>ble to me<note n="(b)" place="margin">Ioh, 3, 6</note> by renuing my hart to the obedience of Gods wil, and working faith in me to apply the merits of Chriſt to my ſelfe, and by the ſame ſpirite, God gathe<g ref="char:EOLhyphen"/>reth a Churche to himſelfe in all<note n="(c)" place="margin">Ioh, 10.16</note> the world by his worde.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>How doth Gods ſpirite worke fayth in you?</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>By the word of God preached.<note place="margin">Ro, 10, 14</note>
+            </p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat are the meanes to increaſe, nou<g ref="char:EOLhyphen"/>rish, and vphold your fayth.</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <pb facs="tcp:8974:13"/>
+            <p>
+               <note place="margin">Rom. 10 17</note>The hearing of the word of God preached, the vſe of the Sacra<g ref="char:EOLhyphen"/>ments and of prayer.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvyll you then bee dilligent to heare the word, to vſe the Sacraments, and to frequent prayer, that your fayth may be increaſed.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>Yea by Gods grace.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat is a Sacrament?</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>A Sacrament is an outward<note n="(a)" place="margin">Gen 17.11, Rom, 4, 11.</note> ſeale ioyned vnto y<hi rend="sup">e</hi> word, which viſibly repreſenteth vnto vs ſpi<g ref="char:EOLhyphen"/>rituall thinges, and aſſureth our faith of Gods promiſes declared in his word.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Howe many Sacraments hath God or<g ref="char:EOLhyphen"/>deyned?</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>Two, Baptiſme and the Supper of the Lord.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>How doth Baptiſme profit your fayth?</hi>
+            </p>
+            <pb facs="tcp:8974:13"/>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>Fyrſt, by aſſuring mee that I am<note n="(a)" place="margin">Rom, 6, 3, 5. 1, Cor, 12, 13,</note> one with Chriſt, Secondlye, that I am<note n="(b)" place="margin">Iohn. 3, 3.5</note> begotten againe,<note n="(c)" place="margin">Col, 2, 11</note> from ſinne into a newe lyfe. Thirdlie, by being a pledge of <hi>(d)</hi> the forgiuenes of my ſinnes,<note n="(b)" place="margin">Mat, 3, 6, Act, 2, 38,</note> for as the water clenſeth the body, ſo our ſoules by<note n="(e)" place="margin">Heb. 9, 12. 1. Pet. 3 22 1. Ioh. 1.7. Apo. 1.5</note> the bloode of Chriſt are purged from ſinne.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat profit hath your fayth by the Lordes Supper.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>Euen this: that as outwardly I receiue the breade and wine to nouriſh my bodie, ſo<note n="(a)" place="margin">1, Col. 10, 16, &amp; 12, 13,</note> inward<g ref="char:EOLhyphen"/>lie I receiue Chriſt by faith, euen as mine owne, whoſe bodye<note n="(b)" place="margin">Cor, 1, 14.22</note> and bloode clenſeth mee from ſin, and nouriſheth mee to eternall life.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Doo you receiue the very body &amp; blood of Chriſt really in the bread?</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <pb facs="tcp:8974:14"/>
+            <p>
+               <note place="margin">Ioh, 6 63,</note>Nothingleſſe, but onelie ſpiritu<g ref="char:EOLhyphen"/>allie by faith.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Howe shall you come worthely to the Lords ſupper?</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>When I come with faith and re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>How shall you knowe when you come to the communion with fayth?</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>Firſt, if I acknowledge mine owne pouertie and wants, con<g ref="char:EOLhyphen"/>feſſe the mercies of God<note n="(a)" place="margin">Pſ. 103, 1, 2, 1, Cor, 11, 24</note> with thankſgiuing, Secondlie, when I aſſure my ſelfe of the<note n="(b)" place="margin">Mat, 26 28</note> forgiue<g ref="char:EOLunhyphen"/>nes of my ſins, by the death and ſacrifice of Chriſt onely.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>How shall you know when you come with repentance.</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>Firſt, if I<note n="(a)" place="margin">1. Cor 11, 28</note> examine and proue my heart, and am truely<note n="(b)" place="margin">2. Cor, 7, 10</note> gree<g ref="char:EOLhyphen"/>ued for my ſinnes,<note n="(c)" place="margin">Pro, 28. 13, Mat, 3, 6</note> confeſſing
+<pb facs="tcp:8974:14"/> them before God, and forſaking them, Secondlie, if I vnfainedlie purpoſe to walke<note n="(d)" place="margin">Mat, 3, 8</note> in a newe life, that is, in holines to GOD, and true loue to my neighbour,<note n="(e)" place="margin">Mat, 5, 23, 24.</note> reconciling my ſelfe to them that I offende, and<note n="(f)" place="margin">Mat, 6, 14, 15, Col, 3, 13,</note> forgiuing others that I may be forgiuen.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat doth the bread broken ſignifie.</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>It ſignifieth the bodie of Chriſte broken for my ſinnes.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat doth the wine ſignifie.</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>The blood of Chriſte ſhed for my ſinnes.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat differeth baptiſme from the Lords ſupper, ſith they both betoken the remyſsion of ſinnes.</hi>
+            </p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>Baptiſme, grafteth vs into Chriſt by regeneration in hope of remiſſion of ſinnes. The Sup<g ref="char:EOLhyphen"/>per
+<pb facs="tcp:8974:15"/> nouriſheth vs being grafted to feele the power of death,<note place="margin">1, Cor 22, 13</note> and re<g ref="char:EOLunhyphen"/>ſurrectio<g ref="char:cmbAbbrStroke">̄</g> of Chriſt, dailie ſtreng<g ref="char:EOLhyphen"/>thening our Faith into a newe life.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhy receiue you Baptiſme but once in all your life, and the ſupper of the Lord often times.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>Becauſe that as we neede but once to be borne, ſo we neede but once to be baptiſed, but as wee neede often to be fedde to nouriſh our bodies in life,<note place="margin">1, Cor, 11, 24 25,</note> ſo muſt wee of<g ref="char:EOLhyphen"/>ten receiue the Lordes ſupper, to confirme our faith, and to teſtify our thankfull remembraunce of Chriſtes death.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>It ſeemeth then that you muſt needes haue your hart touched for your ſinnes when you come to the communion &amp; repenting your former life, and you muſt come with hope of forgiuenes.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <pb facs="tcp:8974:15"/>
+            <p>It is very true, els can I haue no comfort or benefite by it, therfore I pray God to touch my hart a<g ref="char:EOLhyphen"/>right for my ſinnes, and to par<g ref="char:EOLhyphen"/>don them, that I may come wor<g ref="char:EOLhyphen"/>thelie therevnto.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Doo you take this Sacrament then as a pledge of Gods loue in forgiuing your ſinnes, &amp; doo you purpoſe and profeſſe vnfeynedly amendment of life, and to liue with your brethren in chriſtian loue?</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>Yea indeede, and I make thys an vtter renouncing of my former life, that by Gods grace I maye heereafter lead a new life, which grace God grant me. Amen.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>So doing I (as the miniſter of God) re<g ref="char:EOLhyphen"/>ceiue you to the comunity of the ſaints of God, and ſeale vnto you the mercies of God by the authority of his worde, to your euerlasting comfort in Chriſte Ieſus.</hi>
+            </p>
+            <p>
+               <hi>Aunſwere</hi>
+            </p>
+            <pb facs="tcp:8974:16"/>
+            <p>The Lord giue me grace to walk woorthy of his calling in his feare all my life, y<hi rend="sup">t</hi> I may bee ac<g ref="char:EOLhyphen"/>ceptable to him in Ieſus Chriſt. Amen.</p>
+            <p>
+               <hi>Miniſter</hi>
+            </p>
+            <p>
+               <hi>vvyll you exerciſe your fayth in pray<g ref="char:EOLhyphen"/>ing for theſe things daily.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>Yea by Gods grace.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat is prayer.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>It is to aſke all good thinges at the hand of God, and to giue him thanks for all things receiued.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>To whom wyll you make your prayers?</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>To God alone.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvho directeth your affections in pray<g ref="char:EOLunhyphen"/>er?</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>
+               <note place="margin">Rom, 8, 27</note>The ſpirite of God, which ma<g ref="char:EOLhyphen"/>keth <hi>(a)</hi> requeſt according to the wyll of God in his Saints.</p>
+            <pb facs="tcp:8974:16"/>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Howe are your prayers acceptable.</hi>
+               <note place="margin">Heb, 15 15, 1, Pet, 2 5.</note>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>By Ieſus Chriſt.</p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>By what rule wyll you frame your prayers?</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>By that order of Chriſt,<note place="margin">Mat. 6 9.</note> ſet down to his Diſciples, which wee call the Lords prayer.</p>
+            <p>
+               <hi>Miniſter</hi>
+            </p>
+            <p>
+               <hi>Repeate it.</hi>
+            </p>
+            <p>
+               <hi>Aunſwer.</hi>
+            </p>
+            <p>
+               <hi>Our Father which art in heauen. &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Miniſter.</hi>
+            </p>
+            <p>
+               <hi>vvhat is the ſumme of this prayer?</hi>
+            </p>
+            <p>
+               <hi>Aunſwere.</hi>
+            </p>
+            <p>Firſte, wee pray heere for all thinges that may make to the glory of God, and aduauncing of hys name, for the enlarging of his kingdome, and the perfor<g ref="char:EOLhyphen"/>mance of his wyl in all thinges.
+<pb facs="tcp:8974:17"/> Secondly, we pray for al thinges needefull for our ſelues, bothe for our bodies and ſoules, that ſo by the direction of his grace and ſpi<g ref="char:EOLunhyphen"/>rite, we beeing freed from ſinne, may ſerue him freelie, in righte<g ref="char:EOLhyphen"/>ouſnes and holines all our lyfe, which grace, God graunt me and all hys people. Amen.</p>
+            <closer>
+               <signed>
+                  <hi>Finis quod <hi>B. Andrewes.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="confession">
+            <pb facs="tcp:8974:17"/>
+            <head>
+               <g ref="char:leaf">❧</g> A forme of con<g ref="char:EOLhyphen"/>feſſyon.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Lord our God, moſte louing, gracious, and mercifull Father, to whom belongeth righ<g ref="char:EOLunhyphen"/>teouſnes, and mercie, compaſſyon and forgiuenes, to vs belongeth ſhame and confuſion of faces, becauſe we haue tranſgreſſed, in not obeying thy voice, and in breaking all thy holy commaunde<g ref="char:EOLhyphen"/>mentes: for wee acknowledge (O Lord) that euen in our conception we were enfolden in the gylt of con<g ref="char:EOLunhyphen"/>demnation, beeing conceiued in ſin, and borne the children of wrath, and from thencefoorth haue wan<g ref="char:EOLhyphen"/>dred in vngodly pathes, and in the wayes of deſtruction: ſin hauing
+<pb facs="tcp:8974:18"/> entred vppon all the partes of our whole man, hath wholie corrupted both our wyll and vnderſtanding: our thoughtes are prophane, our imaginations worldlie, our deſyres carnall and vncleane, our iudgments corrupt, whereby wee haue beene diſobedient to thy heauenlye wyll, ignoraunt, ſtubborne, malicious, impacient, enuious, full of ſelfe-loue, full of hypocriſie, finallye, fraught with all euill concupiſcen<g ref="char:EOLhyphen"/>ces, and voyde of grace, till thou dyddeſt touch our hartes by thy Spyrite and worde, and calledſt vs to ſanctification. Yea, and ſince thou haſte called vs by the preach<g ref="char:EOLhyphen"/>ing of thy Goſpell, O Lorde what ſinnes and corruptions haue clouen vnto vs ſtil, ſo as the workes of thy grace begunne in vs, doo ſo ſcarce<g ref="char:EOLhyphen"/>lie appeare, as that thou mayſt iuſt<g ref="char:EOLhyphen"/>lie withdrawe from vs thoſe gra<g ref="char:EOLhyphen"/>ces which thou haſt truſted vs with For we confeſſe we haue abuſed thy grace receiued, neglecting the mea<g ref="char:EOLhyphen"/>nes
+<pb facs="tcp:8974:18"/> of our ſaluation: Our zeale is colde, our fayth is weake, our hope languiſheth, our repentaunce is maymed and barren, not yeelding ſuch fruite as may plainely approue our ſanctification: VVee are for<g ref="char:EOLhyphen"/>getful of thy goodnes, and vnthank<g ref="char:EOLunhyphen"/>full for thy mercies.</p>
+            <p>Alas LORD all the coſte that thou haſte beſtowed, and charge that thou haſte beene at, in gyuinge thy ſonne Chriſte Ieſus to ſhed hys deere heart bloode for our ſynnes, hath not gaged our bowelles wyth godlie ſorrowe vnto repentaunce, nor affected vs wyth loue of thee a<g ref="char:EOLhyphen"/>gaine. Euen thys (Lorde) is enough to condemne vs, if wee hadde no<g ref="char:EOLhyphen"/>thinge els to wytneſſe againſte vs, that we ſo ſlenderlie account of the death of thy Sonne, and ſo retch<g ref="char:EOLhyphen"/>leſlye and forgetfullye thinke of it.</p>
+            <p>Yf thou ſhouldeſt forget all our ſinnes paſt, the vanities of our for<g ref="char:EOLhyphen"/>mer daies, and frailtie of our youth,
+<pb facs="tcp:8974:19"/> that none of theſe ſhold be thought vppon, yet our preſent ſinnes and ſlippings ſithens our calling, would condemne vs downe to hell. Yea, if our preſent ſinnes ſhould bee paſſed ouer, yet our readines to ſlide, and tranſgreſſe in time to come, would argue vs guilty of death. Yea, and more then this (Lorde) in that wee haue not rightlie ſorrowed, nor re<g ref="char:EOLhyphen"/>pented vs vnfeynedlie of theſe e<g ref="char:EOLhyphen"/>uils, we ſtand guiltie before thee, as alſo in that the ſinnes of our fore<g ref="char:EOLhyphen"/>fathers, wherevnto wee ſtand intite<g ref="char:EOLhyphen"/>led, remaine vnſorrowed for by vs, the ſtaine whereof, hath ſet a purple <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e vpon vs, ſo deepe as wee can ne<g ref="char:EOLhyphen"/>uer waſh off, except thy free pardo<g ref="char:cmbAbbrStroke">̄</g>: all theſe things call for iudgements not onelie vppon vs, but alſo vppon our poſterity. Oh how haue we de<g ref="char:EOLhyphen"/>ſpiſed thy Lawes? howe haue wee neglected the preachinge of thy worde, the inſtrument of our ſalua<g ref="char:EOLhyphen"/>tion? how haue we wayted on our owne luſtes, ſeruing as apprentices
+<pb facs="tcp:8974:19"/> vnto ſinne? Howe haue we refuſed thy counſell, and ſette inſtruction at naught: we haue ſet more by the world then by thy word, wee haue ſpent as prodigall children, the ſtrength of our young yeeres in va<g ref="char:EOLhyphen"/>nitie, and haue drunke in iniquitie as water: our cares haue beene for the world, and our owne pleaſures and profits, not for thy glorie, vvee haue murmured &amp; grudged when thou haſt croſſed vs with any afflic<g ref="char:EOLhyphen"/>tion or trouble, we haue forgotten thee in our proſperitie, and growen wanton and vnthankfull. Our con<g ref="char:EOLhyphen"/>ſcience in trayning vp our families and children in thy feare, O Lorde how ſmall hath it beene, our ſelues haue beene ill preſidents to them, in looſenes of behauiour, in idle talkes and ieſtes that are not come<g ref="char:EOLhyphen"/>lie. VVe haue beene impacient and vnequall in our gouernment, to au<g ref="char:EOLhyphen"/>ſtere in ſmaller offences againſt our ſelues, and ſometime to remiſſe, in ſlender paſſyng ouer of greater of<g ref="char:EOLhyphen"/>fences
+<pb facs="tcp:8974:20"/> concerning thy glorie, wee haue ſought our ſelues &amp; our own commodities, &amp; not thee, wee haue diſobeyed our parents and betters, &amp; ſo haue left our ſelues ſmall hope of obedience at the handes of thoſe that are vnder vs. And as for our brethren and neighbours, to whom we ſhould approoue our loue by all chriſtian dueties, heere Lorde wee ſtand deepely charged of much guil<g ref="char:EOLunhyphen"/>tines, howe vnduetifull to our pa<g ref="char:EOLhyphen"/>rents, Princes, Gouernours, Tea<g ref="char:EOLhyphen"/>chers, paſtors, and all our betters, not carefullie praying for them, nor procuring them what honour and good that wee can in our callinges, nor carrying humble mindes to<g ref="char:EOLhyphen"/>ward our equalles or inferiors. We haue beene impacient, full of vnna<g ref="char:EOLhyphen"/>turall affections, malicious, conten<g ref="char:EOLhyphen"/>tious, yea, howe vncharitable haue we beene in iudging others, in ta<g ref="char:EOLhyphen"/>king vnkindnes at euery occaſion, not forgiuing nor forbearing when quarrels haue ryſen, but are too rea<g ref="char:EOLhyphen"/>die
+<pb facs="tcp:8974:20"/> to gyue occaſion and to prouoke to diſpleaſure: we haue not labou<g ref="char:EOLhyphen"/>red for peace as it became vs. Howe vnſtayed, vnchaſte, and intemperate haue our words &amp; affections been, how vniuſt haue wee beene in our thoughtes and meaninges, not ſtu<g ref="char:EOLhyphen"/>dying for trueth and equity in loue, but through couetous affections haue ſometimes intruded into the commodities of others. How haue we not ſpared the name of our bre<g ref="char:EOLhyphen"/>thren, not touched with the ten<g ref="char:EOLhyphen"/>der regarde of their credite, ſome<g ref="char:EOLhyphen"/>time hearing, beleeuing, and publy<g ref="char:EOLhyphen"/>ſhing of ſlaunders, and vntruethes againſt our neyghboures, or els by reuealing the vttermoſt agaynſte them, haue ruſſhed agaynſt theyr good name. Yea (Lorde) we haue hurte manie by our example, and haue not doone that good which we myght haue doone to our bre<g ref="char:EOLhyphen"/>thren, nor made conſcience of of<g ref="char:EOLhyphen"/>fences againſt them.</p>
+            <pb facs="tcp:8974:21"/>
+            <p>All theſe thinges (O deere Fa<g ref="char:EOLhyphen"/>ther) argue vs guiltie, and preſſe vs, by increaſing the euidence of our ac<g ref="char:EOLhyphen"/>cuſation: but if we ſhould (O lord) ſtand to rippe vpp our wants in thy ſeruice, we ſhould not know where to beginne, nor where to ende, they are ſo infinite. In a word (Lord) we haue broken the holie league of our obedience, neglected thy wor<g ref="char:EOLhyphen"/>ſhip, not fearing, louing, nor truſt<g ref="char:EOLhyphen"/>ing in thee as we ought: wee haue not ſoughte to thee in our needes, nor harkened to thy word in the mi<g ref="char:EOLunhyphen"/>niſtrie therof, we haue diſhallowed thy name, tranſgreſſed al thy lawes, and made hauocke of thy heauenly ſtatuts, all our life hath beene a diſ<g ref="char:EOLhyphen"/>honour vnto thee: and nowe O Lord euen our God, what remay<g ref="char:EOLhyphen"/>neth for vs in thy iuſtice, if thou ſhouldeſt meaſure vs by our ſelues, but euen thy fearefull curſe, and ba<g ref="char:EOLhyphen"/>niſhment from thy preſence, ſo as thou mighteſt throwe vs downe to hell, and ſhewe the power of thy
+<pb facs="tcp:8974:21"/> wrath vpon vs, by heaping on vs all thy fearefull plagues and curſes, writte<g ref="char:cmbAbbrStroke">̄</g> in the law againſt tranſgreſ<g ref="char:EOLhyphen"/>ſors. If wee ſhoulde looke to the heauens, they can not helpe vs, yf wee looked downe to the earth, no comfort can be founde: if we ſeeke for men to be our aduocates, they all ſtand condemned with the ſons of <hi>Adam:</hi> if wee ſue to Angels, it booteth not, for thou haſt founde follie in them: if we ſhoulde pleade Lawe with thee, loe, the ſentence of death alreadie is paſſed againſt vs, if wee reſort to thy diuine maieſtie, there terror diſmayeth vs, thou art iuſt and canſt not away with iniqui<g ref="char:EOLhyphen"/>tie, and we Lorde, what are wee to ſtand in thy ſight, whether then ſhal we flie from thy preſence, and wher ſhal we be reſkued from the terrour and guilt of our ſinnes, and the feare of thy iudgments: Beholde Lorde thy deere ſonne Chriſte Ieſus, that immaculate Lambe, he is our redee<g ref="char:EOLunhyphen"/>mer and ſauiour, our iuſtifier, our
+<pb facs="tcp:8974:22"/> aduocate, who as a louing <hi>Samari<g ref="char:EOLhyphen"/>tane</hi> hath ſalued our woundes, ſatiſ<g ref="char:EOLhyphen"/>fyed thy Lawe, borne thy curſe for vs, and ſtepping out betweene vs &amp; thee, hath payd the raunſome of all our treſpaſſes: in him wee knowe thou canſt not bee diſpleaſed with vs. O Lord heauenlie father, wee therefore moſt humblie pray thee for his ſake to be mercifull vnto vs, in pardoning all our ſinnes, and tur<g ref="char:EOLunhyphen"/>ning all theſe iudgements from vs, which we confeſſe wee haue deſer<g ref="char:EOLhyphen"/>ued to be executed vpon our ſoules and bodies, for wee acknowledge thou mighteſt iuſtlie plague vs, for that we haue not vſed the faculties and powers of our ſoules &amp; mindes to thy glory, our wits and wiſedome haue warred againſt thee, and wee haue ſpent our counſels in vayne thinges, ſo as thou mighteſt de<g ref="char:EOLhyphen"/>priue vs of our wittes, and poſſeſſe vs with follie and madnes, or throw vs vppe to errors and ſtronge illuſi<g ref="char:EOLhyphen"/>ons, becauſe wee haue not beleeued
+<pb facs="tcp:8974:22"/> thy trueth, thou mighteſt alſo with drawe from vs the vſe of our mem<g ref="char:EOLhyphen"/>bers, which wee haue too long lette out to Satan and vncleanenes, and haue not ſerued thee in our ſences and members as wee ought. And whereas thou haſt heaped benefites infinitelie vpon vs, haſte truſted vs with life, health, wealth, proſperi<g ref="char:EOLhyphen"/>tie and peace, wee haue beene vn<g ref="char:EOLhyphen"/>thankfull for them, &amp; abuſed them, ſo as thou mighteſt Lord turne our life into death, our wealth into woe, our health into dangerous ſicknes, and diſeaſes, our proſperitie into aduerſitie, our peace into warre, our plenty into ſcarcitie &amp; dearth, &amp; ſo puniſh the earth for our ſins as thou haſt by ſome pettie iudgements be<g ref="char:EOLhyphen"/>gun oft to call vs to repentance, but we haue not regarded, neither bene fittes nor ſcourges can mooue vs to humble and tame vs, except thou O Lord put to thine hand.</p>
+            <p>O deere Father, ſuffer vs not to ſinne in hardneſſe of hart, and in vn<g ref="char:EOLhyphen"/>kindnes
+<pb facs="tcp:8974:23"/> towards thy maieſtie, or a<g ref="char:EOLhyphen"/>gainſt the meanes &amp; offers of grace but touch vs, we pray thee with a true remorſe of conſcience for our ſinnes, which we heere vnfaynedlie co<g ref="char:cmbAbbrStroke">̄</g>feſſe before thee, frame our harts to true repentaunce, accept this Sa<g ref="char:EOLhyphen"/>crifice of our confeſſyon &amp; ſorrow for our iniquities, pardon all our ſinnes, burie them in the graue of thy Sonne, forget and forgiue them and cauſe vs to turne vnto thee, for we are aſhamed of our ſelues, and abhorre our ſelues, repenting vs of all our ſinnes from our harts: wher<g ref="char:EOLhyphen"/>fore (Lord) heare, O Lord forgiue, O Lord conſider and ſhew mercy, &amp; receiue vs vnto fauour, for wyth thee onelie is mercy and compaſſy<g ref="char:EOLhyphen"/>on: thou onelie forgiueſt ſinnes, we renounce our ſelues wholie, and all our owne worthines, wee appeale from all others to thee alone, ther<g ref="char:EOLhyphen"/>fore accept of vs in thy beloued ſon Chriſt Ieſus, renue vs by thy ſpirit, guyde vs in thy wayes, ſanctifie vs
+<pb facs="tcp:8974:23"/> in thy trueth, keepe vs in awe, that we may ſpende all our time in thy ſeruice, doing dueties to thee &amp; our brethren in our callings, all our life, that ſo we feeling of thy grace, wor<g ref="char:EOLunhyphen"/>king in vs vnto ſanctification, and a newe life, may gather aſſuraunce of the full forgiuenes of all our ſinnes, and ſo with comfort and ioy, finiſh our chriſtian courſe, giuing good example to our brethren, and glo<g ref="char:EOLhyphen"/>rifying thy name vppon the earth, and finallie may praiſe thee in the heauens, without all corruption, in perfect holines, and ſo be glori<g ref="char:EOLhyphen"/>fied with all thy ſaintes, through Ieſus Chriſt our Lorde. A<g ref="char:EOLhyphen"/>men.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:8974:24"/>
+            <head>A forme of prayer.</head>
+            <p>O Lorde our moſte gracious, good, and mercifull Father, we thy ſeruants, &amp; the work manſhyp of thy handes, fall downe before thy high maieſtie, humblye acknowledging our manifolde and heynous ſinnes, whereby wee haue broken thy holie Lawes, and iuſtly deſerued euen eternall death &amp; con<g ref="char:EOLhyphen"/>demnation at thy handes. VVe doo heere moſt inſtantly vpon the knees of our harts, ſue vnto thy fatherlye clemencie, for pardon and forgiue<g ref="char:EOLhyphen"/>nes of all our ſinnes whatſoeuer, &amp; for the remoouing &amp; keeping backe of all thy iudgements fro<g ref="char:cmbAbbrStroke">̄</g> vs, which we by our ſins haue iuſtlie deſerued and accept of vs and our prayers, wherewith we preſent thy maieſtie, in the name and mediation of thy
+<pb facs="tcp:8974:24"/> ſonne Chriſte Ieſus, preparing our harts with reuerence &amp; faith to call vpon thee. And whereas wee were borne in ſinne and iniquitie, where<g ref="char:EOLhyphen"/>by we are altogether corrupt, &amp; are more rightlie intituled to death and condemnation then to life, we pray thee (moſt merciful father) to renue vs by thy holie ſpirite, and to roote out of vs all thoſe euil rootes of our concupiſcence, clenſing vs from all that which ſauoureth of our ſelues, and of vncleanenes. Purge our euyl thoughtes, our prophane imagina<g ref="char:EOLhyphen"/>tions, and carnall luſtes. Yea Lorde, wee humblye pray thee, ſcoure our harts from all hypocriſie, from all contempt of thee and of thy holye word, from all ignoraunce of thee, falſe worſhip, incredulity &amp; diſtruſt of thy fatherlie prouidence, &amp; from murmuring at thy hand in afflictio<g ref="char:cmbAbbrStroke">̄</g>. Let vs not prophane thy moſt ho<g ref="char:EOLhyphen"/>ly name, eyther in worde, deede, or thought, nor diſhallow thy Sabba<g ref="char:EOLhyphen"/>othes, but cleaue to al thy ordina<g ref="char:cmbAbbrStroke">̄</g>ces</p>
+            <pb facs="tcp:8974:25"/>
+            <p>Throwe out of vs (O Lorde) all ſelfe-loue, contempt againſt others, pride, wrath, impaciencie, vncharita<g ref="char:EOLunhyphen"/>blenes, all vnnaturall affections, vn<g ref="char:EOLhyphen"/>mercifulnes, deſire of reuenge, ha<g ref="char:EOLhyphen"/>tred and enuie, all fornications, vn<g ref="char:EOLhyphen"/>orderly and wanton luſtes, intem<g ref="char:EOLhyphen"/>perancie and vnchaſte behauiour, al worldlie mindednes, couetouſnes, deceite and iniurie, all ſlaunderous wordes and ſurmiſes againſt our brethren. All theſe thinges wee pray thee to remooue out of vs, and to ſanctifie our harts, to the obedi<g ref="char:EOLhyphen"/>ence of all thy holie commaunde<g ref="char:EOLhyphen"/>ments, that we may dailie be refor<g ref="char:EOLhyphen"/>med to thy Image, in true holines and righteouſnes, expreſſing dueties to thee &amp; our brethren, with a care<g ref="char:EOLhyphen"/>full conſcience. Take vppe our thoughtes and affections (O lord) that they may affect and long after thee day and night, and that the counſels of our harts may muſe on thee and thy holie wyll: and dwell thou wholie in our ſoules and bo<g ref="char:EOLhyphen"/>dies,
+<pb facs="tcp:8974:25"/> directing our wyls, our iudg<g ref="char:EOLunhyphen"/>ments and vnderſtanding, our ſpee<g ref="char:EOLunhyphen"/>ches and all our actions, that in our whole manne wee may ſerue thee. Good Lord plant in vs, wee praye thee, the true loue and feare of thy name, increaſe the knowledg of thy word in vs, with faith, zeale, and iudgment, that we may reuerence &amp; obey it in our ſoules, ſtudying to ſhewe the fruite therof in our liues. VVorke and increaſe a true &amp; liue<g ref="char:EOLhyphen"/>lie faith in vs, whereby wee may cleaue to thee, and thine euerlaſting promiſes in Chriſt Ieſus, and may depend vpon thy prouidence in all eſtates of thys mortall lyfe, without murmuring or repyning at thy hand, in ſicknes, pouerty, impriſon<g ref="char:EOLhyphen"/>ment, perſecution, or in any afflicti<g ref="char:EOLhyphen"/>on eyther of bodie or minde, pati<g ref="char:EOLhyphen"/>entlie bearing all croſſes, knowing that thereby thou correcteſt our ſinnes, as a father, ſeeking our ame<g ref="char:cmbAbbrStroke">̄</g>d<g ref="char:EOLunhyphen"/>ment. On the otherſide, let vs not be remiſſe, careleſſe and forgetful in
+<pb facs="tcp:8974:26"/> our proſperitye, but may in wealth &amp; woe acknowledge thy hand with thankfulnes and reuerence, reioy<g ref="char:EOLhyphen"/>cing that howſoeuer thou dealeſt with vs in outward things, yet thou art ſo our father in Chriſte, that thou canſt not deny vs anie thing, that may bee to the benefite of our ſoules, or to our ſafetie in the life to come, ſith that we haue intereſt euen vnto thy ſelf in Chriſt our ſauiour. And ſith thou haſt truſted vs wyth thine owne name and glorie, which in thy goſpell ſhineth vnto vs. O giue vs grace to ſeeke the enlarging of thy kingdome, by furthering thy Goſpell in the miniſtrie thereof, to our power, being ielious ouer thy name, that our ſpeeches, thoughtes, or dooings, may not ſauour of con<g ref="char:EOLhyphen"/>tempt againſt thee, nor ſuffer thee to be diſhonoured of others, if wee may anie way hinder it: neyther let our life be ſo looſe, as occaſion ſhould be taken there from by men to blaſpheme thy name. But Lorde
+<pb facs="tcp:8974:26"/> guyde vs ſo by thy grace, that our godlie and ſober life amongſte men, may be a comelines, a glorie, and an honour vnto thee, to bring credite to our profeſſyon.</p>
+            <p>(For alas Lord) heerein we haue beene traitors vnto thee, to betray thy glorie into the reprochefull tongues of godleſſe men for want of watchfulnes and guidaunce in our wayes. Direct vs therefore O Lorde, in thy whole worſhyppe, in ſpirite and trueth, and ſtirre vs vp, that we may approue our fayth by carefull and continuall hearing, reading, and muſing of thy worde, by exerciſing prayer, both publique<g ref="char:EOLhyphen"/>lie with the aſſemblie of people, and priuatelie by our ſelues and with our families, that we may acknow<g ref="char:EOLhyphen"/>ledge thee to be our God, in ſeeking vnto thee for all thinges, and retur<g ref="char:EOLhyphen"/>ning thankes vnto thee, as from whom commeth euery good thing.</p>
+            <p>Gyue vs fayth and repentaunce in the vſe of thy Sacramentes,
+<pb facs="tcp:8974:27"/> that we rightlie frequenting all ho<g ref="char:EOLhyphen"/>lie exerciſes of thy worſhippe, may ſanctifie thy Sabbaothes, and in<g ref="char:EOLhyphen"/>creaſe our faith, feare, and loue to<g ref="char:EOLhyphen"/>wardes thee. Furthermore we pray thee O LORD, teach vs to put on al affections of loue towards our brethren, being indued with meek<g ref="char:EOLhyphen"/>nes, humblenes of minde, patience, forbearing and forgiuing one ano<g ref="char:EOLhyphen"/>ther, when there are quarrels, euen as Chriſt hath forgiuen vs, ſo as we may liue in all chriſtian manner a<g ref="char:EOLhyphen"/>mongſt men, without warres, &amp; con<g ref="char:EOLunhyphen"/>tentions, in all courteous, true, and iuſt dealing, in our affayres and bu<g ref="char:EOLhyphen"/>ſines, not vſing any vnlawfull artes or practiſes, for the increaſe of our commodities &amp; pleaſures, but faith fully labouring in our callings, may depende vpon thy promiſes, appro<g ref="char:EOLhyphen"/>uing our faith. Let the name and credite of our brethren &amp; neighbors be precious vnto vs, that by no mut<g ref="char:EOLunhyphen"/>teringes, ſurmiſings, reports, or light credence, wee impayre their good
+<pb facs="tcp:8974:27"/> name, and when we meete with ſla<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ders or reproches, giue vs grace to beare our ſelues lowly &amp; hu<g ref="char:cmbAbbrStroke">̄</g>ble, ſee<g ref="char:EOLunhyphen"/>king redreſſe without bitternes of ſpirit, knowing howe Chriſt in the like caſes hath ſuffered. And be<g ref="char:EOLhyphen"/>cauſe wee can not alwaies enioye peace and libertye, vnder the profeſ<g ref="char:EOLhyphen"/>ſion of thy Goſpell. O Lorde our God, wee pray thee let vs not onelie nowe in theſe dayes of our ſafetye, allowe and cleaue vnto thy trueth, whileſt others doo accompanye vs in profeſſyon, whilſt Princes beare vs out, freendes doo countenaunce vs, whilſt our wiues, children, landes and poſſeſſyon abide by vs, and all thinges ſmyle vpon vs: but O deere Father, if euer our ſinnes ſhould pro<g ref="char:EOLunhyphen"/>cure perſecution for thy trueth, ſo as companions ſhoulde leaue vs, freendes fayle vs, the cruel lookes of Princes, and their bloodye handes ſhould be turned vppon vs, when mercileſſe impriſonment, the glitte<g ref="char:EOLhyphen"/>ring ſword, the ſhaking ſpeare, or
+<pb facs="tcp:8974:28"/> fierie flame ſhould with terror threa<g ref="char:EOLunhyphen"/>ten death, when baniſhment &amp; ex<g ref="char:EOLhyphen"/>ile ſhalbe for natiue ſoile, when our deere wiues and tender babes, with woeful cryes &amp; wringing of hands, on the one ſide ſhall mooue the bow<g ref="char:EOLunhyphen"/>els of pittie, the raging fire or other fearefull tortures of death on the o<g ref="char:EOLhyphen"/>therſide, ſhall mooue terror &amp; dyſ<g ref="char:EOLhyphen"/>couragement, Oh, euen then Lord, we poore wretches and wormes vn<g ref="char:EOLhyphen"/>able of our ſelues to abide the heere<g ref="char:EOLhyphen"/>ſaie of death, doo beſeeche thee to fortifie our faith, giuing vs patience, confidence and hope vnto the ende, that as thou haſte giuen vs a deſire to holde out, which is a pledge of our continuaunce, ſo thou maiſt ſtil vphold vs with the taſt of the ioyes to come, that in Chriſt we may a<g ref="char:EOLhyphen"/>bide vnto the ende, ſo as nothing may ſeperate vs from the loue of God which is in Chriſte Ieſus our Lord.</p>
+            <p>O Lorde therefore giue vs grace in our proſperitie, to mortifie our
+<pb facs="tcp:8974:28"/> affections bothe from ſinne and the world, that it make vs not vnfitt for the yoke, and vnrulie. Thou know<g ref="char:EOLunhyphen"/>eſt Lord the deſire of our ſoules, O performe theſe thinges vnto vs for Ieſus Chriſt his ſake. VVe further pray thee (O Lorde) to be preſident and gouernour of vs and our fami<g ref="char:EOLhyphen"/>lies, directing vs ſincerelie in all thy wayes, that we giue not euill exam<g ref="char:EOLhyphen"/>ple either in worde or deede, not ra<g ref="char:EOLhyphen"/>ging in our affections, ruling by them; but moderate thou our affec<g ref="char:EOLhyphen"/>tions and ſpeeches in all our dome<g ref="char:EOLhyphen"/>ſticall gouernment, that wee may rule ouer them in thy name, beeing neyther too ſeuere nor too remiſſe, that ſo man and wife, with theyr families, may liue togeather religi<g ref="char:EOLhyphen"/>ouſly, ſoberlie, and peaceably, wyth freer vſe of prayer, and other holy exerciſes.</p>
+            <p>O LORDE, bleſſe our Ser<g ref="char:EOLhyphen"/>uauntes &amp; chyldren wyth obedient and duetifull hearts to thy maieſtie, and vnto vs for thee, beeing with<g ref="char:EOLhyphen"/>out
+<pb facs="tcp:8974:29"/> murmuring, vnfaithfulnes, re<g ref="char:EOLhyphen"/>plying or ſtubborne anſweres, but peaceable, lowlie, and tractable, Ban<g ref="char:EOLhyphen"/>niſh from them all ſwearing, lying, pryde, curſed ſpeaking, ſlaundering, ryot, and all intemperancie. And though by our ſinnes thou migh<g ref="char:EOLhyphen"/>teſt take aduauntage to throwe out our children to thy curſe, and to with holde thy grace fro<g ref="char:cmbAbbrStroke">̄</g> them, yet pardon thou our ſinnes for thy mer<g ref="char:EOLunhyphen"/>cies ſake, and continue thy graces to vs, and to our poſterity after vs, to many generations. O Lorde, be<g ref="char:EOLhyphen"/>cauſe alſo nothing can proſper without thy bleſſinge (though wee care and toyle) bleſſe thou therefore and proſper all the affayres of our lawfull callinges, this day and euer heereafter, that we may ſee daylie a comfortable iſſue of our labours, for we reſigne vp all our affayres, and the ſucceſſe thereof vnto thee, la<g ref="char:EOLhyphen"/>bouring in them vnder thy proui<g ref="char:EOLhyphen"/>dence. And now Lorde, we praye thee for our neighbours rounde a<g ref="char:EOLhyphen"/>bout
+<pb facs="tcp:8974:29"/> vs, and for the congregation, where we enioy the felowſhippe of this life, with other ritch graces of thine, O Lord bleſſe them all, and eache familie and perſon, both olde and young, huſbands and wyues, parents and chyldren, maſters and ſeruauntes, gouernors and people, that eache of theſe in their callinges being furniſhed with meete graces from thee, may diſcharge a good conſcience therin in thy feare. Bleſſe O LORDE the Magiſtrates of our towne, endue them with wiſedom, courage, faithfulnes, &amp; the feare of thy name, and all graces neceſſarie, that they executing iudgment and iuſtice, thy glorie may bee aduaun<g ref="char:EOLhyphen"/>ced, the people may of conſcience obey, ſinne may bee ſupplanted, and godlines with trueth may happilye flouriſh among vs. Bleſſe (O lord) wee pray thee, our miniſters of thy word, that they may abound with al neceſſary graces, fitte for that waigh<g ref="char:EOLunhyphen"/>ty calling: let vs imbrace them in
+<pb facs="tcp:8974:30"/> our hartes, as meſsengers ſent by thee for our ſaluation. Gyue vnto them ſtrength, faithfulnes, grauitie, wiſedome, iudgment, patience, and courage in dooing thy wyll, that they may wade comfortablie, and with a good conſcience, through all daungers: make their labours fruit<g ref="char:EOLhyphen"/>full, in the hearts of the people, con<g ref="char:EOLhyphen"/>uert or confounde all that riſe vp a<g ref="char:EOLhyphen"/>gainſt wholeſome doctrine, reforme the diſobedient, keepe them in thy trueth that are called, increaſinge their faith and obedience, and ga<g ref="char:EOLhyphen"/>ther home daielie ſome ſoules into thy folde, that the people being tur<g ref="char:EOLhyphen"/>ned vnto thee, thou maieſt haue praiſe. Preſerue O Lorde, this our Towne from inward perrills of the ſoule, and outward of the body, bee thou our watchman, and tower of defence fro<g ref="char:cmbAbbrStroke">̄</g> al enimies, that our ſins betray not our peace: kepe vs by ſea &amp; by land in bleſſed ſafety, &amp; let vs not forget to praiſe thee for it: co<g ref="char:cmbAbbrStroke">̄</g>ti<g ref="char:EOLhyphen"/>nue thine holy ordinance of teach<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:8974:30"/> ô Lord among vs euermore, let vs neuer want that bleſſed &amp; ſoue<g ref="char:EOLhyphen"/>raine meanes of our ſaluation, and giue vs grace hartily, reuerently, &amp; faithfully to regarde thy ſeruants &amp; thy heaue<g ref="char:cmbAbbrStroke">̄</g>ly doctrin brought by the<g ref="char:cmbAbbrStroke">̄</g> ſo as both they &amp; we may in our ly<g ref="char:EOLhyphen"/>ues expres the fruit of thy word, fee<g ref="char:EOLhyphen"/>ling effectually the power therof co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>uerted into our ſoules, to the tho<g ref="char:EOLhyphen"/>row reforming of the whole ma<g ref="char:cmbAbbrStroke">̄</g> that we may ſtand aſſured of thy mercy &amp; pardon of our ſins through faith, may be multiplied with al ſpiritual graces, directed, kept &amp; co<g ref="char:cmbAbbrStroke">̄</g>tinued to the ende in al happy waies, ſo as our own ſoules may reape perfit co<g ref="char:cmbAbbrStroke">̄</g>fort, others may be edified, &amp; turned vn<g ref="char:EOLhyphen"/>to thee, thy ſelf maiſt receiue glory, honor &amp; eternal praiſe in Chriſt Ie<g ref="char:EOLhyphen"/>ſus: and now lord, we moſt earneſtly intreate thee for our whole lande, &amp; principallye, for our moſte gracious Queene <hi>Elizabeth,</hi> ô lord giue her a long, a proſperous, a godly, &amp; a hap<g ref="char:EOLunhyphen"/>py raign ouer vs, co<g ref="char:cmbAbbrStroke">̄</g>founding all her enemies,
+<pb facs="tcp:8974:31"/> ſafegarding her royall perſon, enrit<g ref="char:EOLhyphen"/>ching her ſoule with all heauenlye graces vnto ſaluation, that ſhe go<g ref="char:EOLhyphen"/>uerning happilie on earth, may raigne euerlaſtingly in heauen with thee. Bleſſe her right honourable Counſellers, and all inferiour Magi<g ref="char:EOLhyphen"/>ſtrates, directing their counſels, con<g ref="char:EOLhyphen"/>ſultations and gouernments, to the aduauncing of thy glory, and the good of thy Church. Bleſſe all the Miniſters of thy holie worde, that they may ſincerely diſcharg a good conſcience in their places, to the e<g ref="char:EOLhyphen"/>difying of thy church through loue. Yea we pray thee for all our whole land, and people of all degrees, par<g ref="char:EOLhyphen"/>don their ſinnes, leade them in thy trueth, that they may in peace and godlines ſerue thee all their lyfe. Finallie, Lord we pray thee for all nations, kindreds, and tongues, where thy name is profeſſed, for all chriſtian Magiſtrates and Rulers, that thou wylt bleſſe and defende them, and keepe them in thy trueth
+<pb facs="tcp:8974:31"/> from all their ennimies, cauſe the light of thy holie Goſpell to ſhyne to all nations, that they being tur<g ref="char:EOLhyphen"/>ned to thee, thou mayſt haue praiſe, comfort the comfortles, helpe the helples, bee a father to the fatherles, and a huſbande to the wyddowes, ende the miſerie of the afflicted, confound al enimies of thy church, and giue to thy people euerlaſtyng peace in Chriſt Ieſus. Theſe graces with all other els neceſſarie for vs, and thy whole Church, we humbly craue at thy maieſties hand, in ſuch manner as hee hath taught vs, ſaying: <hi>Our Father which art in Heauen. &amp;c.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:8974:32"/>
+            <head>A forme of <hi>thanks<g ref="char:EOLhyphen"/>giuinge.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E render moſt humble and hartie thankes in Ieſus Chriſt vnto thy diuine maieſtie, ô lord our God, for thy great mercies and auncient louing kind<g ref="char:EOLhyphen"/>nes towards vs &amp; thy whole church alwayes expreſſed, namely lord for thy ineſtimable &amp; euerlaſting loue, whereby thou haſt choſen vs freelie in Chriſt Ieſus vnto ſaluation, be<g ref="char:EOLhyphen"/>fore the foundations of the worlde w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e layde, as alſo for thy goodnes whereby thou haſt created vs to the likenes of thine owne Image, and whereas wee and the whole race of
+<pb facs="tcp:8974:32"/> mankind, through ſinne and tranſ<g ref="char:EOLhyphen"/>greſſion were fallen from thee, into a deſperate and helliſh condition of condemnation, thou haſt againe redeemed vs by the precious death and bloodſhedding of thy Sonne, freed vs from bondage, pardoned all our ſinnes, and reſtored vs into fa<g ref="char:EOLhyphen"/>uour, euen with thy ſelfe, inueſted vs into all thy ritches, and heauenly treaſures, haſt called vs by the mini<g ref="char:EOLhyphen"/>ſtrie of thy worde into a newe life, iuſtified vs freelie through fayth, ſanctifyed vs by thy grace and ho<g ref="char:EOLhyphen"/>lie ſpirit, and ſo made vs of vile and myſerable cayteifes and bondmen of Satan, chayned vnto euerlaſting darknes and iudgment, the freemen of Chriſt Ieſus, ſette at liberty vnto euerlaſting life, &amp; haſt giuen vs the earneſt of our ſaluation &amp; thy ſpi<g ref="char:EOLhyphen"/>rite, whereby thou haſt in ſome meaſure furniſhed vs with fayth, knowledge and zeale, working in vs vnto repentaunce and a nevve life.</p>
+            <pb facs="tcp:8974:33"/>
+            <p>O Lord, thou mighteſt haue left vs in darknes, and in the ſhadowe of death, in error &amp; ignorance with o<g ref="char:EOLhyphen"/>ther natio<g ref="char:cmbAbbrStroke">̄</g>s that know the not, thou myghteſt haue deteyned thy grace from vs, &amp; giuen vs vp to our own hartes luſt, into a reprobate mynde, with the vngodly of the world, that ſhall neuer taſte of thy goodnes, that we might fill vppe the cuppe of thy wrath, thou mighteſt haue broken in vppon vs with thy plagues and puniſhmentes, as thou haſt doone vppon ſome who haue not exeeded the meaſure of our iniquities, and mighteſt haue executed fearefull iudgments againſt vs, in the mideſt of the dayes of our ignoraunce and contempt againſt thee, when wee e<g ref="char:EOLhyphen"/>uer without remorſe of conſcience, not knowing like poore wretches our deſperate eſtate, but yet Lorde bleſſed be thy name, who hath ſpa<g ref="char:EOLhyphen"/>red vs hetherto, and touched our hartes vnto ſome meaſure of repen<g ref="char:EOLhyphen"/>taunce, haſt opened our eyes to ſee
+<pb facs="tcp:8974:33"/> thy trueth, haſt freed vs from dark<g ref="char:EOLhyphen"/>nes and death, cauſed vs to taſte of thy word, made ſinne lothſome vn<g ref="char:EOLhyphen"/>to vs, ioyed our hearts with the ty<g ref="char:EOLhyphen"/>dinges of our ſaluation, renued our harts, giuen vs hope of a better life, and framed our hearts to ſome loue of thy children, and to ſome mea<g ref="char:EOLhyphen"/>ſure of holines in thy ſight.</p>
+            <p>O Lord, what mooued thee to al this but thine owne free mercie? for which we re<g ref="char:cmbAbbrStroke">̄</g>der all praiſe vnto thee, graunt vs grace to walke worthy of theſe thy mercies, with thankfull harts all our life. VVee bleſſe thy name ô Lord our God, for thy fa<g ref="char:EOLhyphen"/>therlie care and diuine prouidence, whereby thou haſte alwayes wat<g ref="char:EOLhyphen"/>ched ouer vs, and protected vs gra<g ref="char:EOLhyphen"/>ciouſly from our cradle, deliuering vs from manie plagues, puniſh<g ref="char:EOLhyphen"/>ments, and daungers, which our ſins had iuſtly deſerued to haue brought vpon vs, and heaping many vnde<g ref="char:EOLhyphen"/>ſerued benefites vpon vs, thou haſte truſted vs with health, wealth, liber<g ref="char:EOLhyphen"/>ty,
+<pb facs="tcp:8974:34"/> proſperity, freendſhip and peace, which all we haue abuſed, yet haſte thou ſpared vs. Thou haſt ſet vs in a calling amongſt men, haſte bleſſed our affayres, proſpered the workes of our hands, nothing hath wanted vnto vs that might expreſſe thy loue, eyther appartayning to our ſoules or our bodies, the graces of thy ſpirite thou haſte in ſome mea<g ref="char:EOLhyphen"/>ſure ſhed vppon vs, the ſoueraigne meanes of our ſaluation, thy word, and Sacraments, thou haſt ritchly offred vnto vs, haſt giuen vs intereſt into al thy riches &amp; treaſures, yea, e<g ref="char:EOLhyphen"/>uen into thy ſelf, ſo as we may with boldnes reſort vnto thee in al neceſ<g ref="char:EOLunhyphen"/>ſities in the name of thy ſon. O lord this is a happy benefitt, that we may confer with thy maieſtie by prayer, in all our diſtreſſes and affaires, and may powre out our co<g ref="char:cmbAbbrStroke">̄</g>plaints into thy boſome &amp; be regarded, oh ſtirre vp our faith Lord, to put in vre thys comfortable exerciſe of our fayth, euen prayer in all pure manner.</p>
+            <pb facs="tcp:8974:34"/>
+            <p>VVe praiſe thy high maieſty O Lorde for all meanes of our ſalua<g ref="char:EOLhyphen"/>tion, for the comfortable miniſtry of thy ſeruauntes the Preachers, and for thy graces vppon them, praying thee to encreaſe bothe the number of them, and thy graces &amp; gyftes in them, that theyr labours beeing bleſſed, thy Church may flouriſh.</p>
+            <p>Like thankes, praiſe, and honour be giuen vnto thee for all Chriſtian Princes &amp; Magiſtrates, whom thou haſt ſtirred vp in any place, to haue a care of thy church &amp; Goſpell, and for thy mercie, to all countries that haue imbraced thy word, that bleſ<g ref="char:EOLhyphen"/>ſed meſſuage of health and ſaluati<g ref="char:EOLhyphen"/>on, and in this aboue all other, wee thinke our ſelues beholding to thee ô Lorde, that thou haſte beene gra<g ref="char:EOLhyphen"/>tious to our Land, to place vs there where thy Goſpell flouriſheth, and for that thou haſt ſuffred vs to lyue in this age, &amp; in ſuch a place wherin we ſee thy goodnes &amp; trueth in thy word,
+<pb facs="tcp:8974:35"/> when other nations, yea ſome other places of this our owne land perriſh in ignoraunce. We can not forget O lorde thy louing kindnes ſhewed to vs, in beſtowing vpon vs ſo gra<g ref="char:EOLhyphen"/>cious a Princeſſe as our ſoueraigne Ladie, Queene <hi>Elizabeth,</hi> as alſo ſuch chriſtian, wiſe, graue and hono<g ref="char:EOLunhyphen"/>rable counſellers, nobles and magi<g ref="char:EOLhyphen"/>ſtrates, louing thy trueth &amp; goſpel, for preſeruing &amp; protecting ſo mi<g ref="char:EOLhyphen"/>raculouſlie her royall perſonne, our countrie and all eſtates watching o<g ref="char:EOLhyphen"/>uer vs, reuealing &amp; confounding the conſpiracies and treaſons bothe of forraine and domeſticall ennimies from time to time, hauing heereto<g ref="char:EOLhyphen"/>fore deliuered vs from the captiuity and thraldome of the man of ſinne, euen the Pope, reſtored to vs, peace, liberty, true religion, chriſtian go<g ref="char:EOLhyphen"/>uernment, the preaching of thy goſ<g ref="char:EOLhyphen"/>pell, the ſafetie of our life, finally all bleſſings, neceſſarie for ſoule &amp; bo<g ref="char:EOLhyphen"/>dy, thou haſt richlie beſtowed vpon vs, for which we can neuer ſuffici<g ref="char:EOLhyphen"/>entlie
+<pb facs="tcp:8974:35"/> praiſe thee. VVe thank thee O Lord for the ſafety of thys our towne and corporation where vvee dwell, in preſeruing vs from all for<g ref="char:EOLhyphen"/>raine inuaſion, and incurſion of e<g ref="char:EOLhyphen"/>nemies, as alſo for our ſelues, our fa<g ref="char:EOLunhyphen"/>milies, and charges in prouiding for vs, who haſt continuallie beene mer<g ref="char:EOLunhyphen"/>cifull vnto vs, haſte preſerued vs in the day time, and watched ouer vs in the night ſeaſon, for all theſe thinges O God, and whatſoeuer els that we haue receiued at thy hands, eyther for our ſoules or bodies, and for all thy graces, vppon thy whole Church, and vppon all nations, wee offer vppe vnto thee thys our poore Sacrifice of thankſgiuing &amp; praiſe, moſt hu<g ref="char:cmbAbbrStroke">̄</g>bly praying the, in the name and mediation of thy ſonne Chriſt Ieſus, to pardon al our ſinnes, &amp; the imperfections of our prayers and thankſgiuings, &amp; to accept of them for his ſake, in whoſe name onely we are bold to preſent thy maieſtye with our ſuites. Laſtly, wee moſt
+<pb facs="tcp:8974:36"/> entirelie beſeech thee to ſtirre vs vp effectuallie vnto all thankfulnes &amp; obedience in the whole courſe of our life, quickning our faith, infla<g ref="char:EOLhyphen"/>ming our loue, that we may with al cheerefulnes doo dueties to thee &amp; our brethren in our callinges, that we &amp; all thy ſerua<g ref="char:cmbAbbrStroke">̄</g>ts whatſoeuer, be<g ref="char:EOLunhyphen"/>ing furthered &amp; holden out by thy grace, may growe vp vnto full holi<g ref="char:EOLhyphen"/>nes in thy feare, tyll we all are fully perfited in the heauens, to receiue the full meaſure of our ſaluation, in that bleſſed inheritaunce of the Saints with Chriſt Ieſus, in the day of his glorious appearaunce, to who<g ref="char:cmbAbbrStroke">̄</g> with thee and the holie ſpirit, be all praiſe, honour, glorye, power, might and dominion, for euer-more. A<g ref="char:EOLhyphen"/>men.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:8974:36"/>
+            <head>A prayer for the Marri<g ref="char:EOLhyphen"/>ners, to be vſed at the Sea.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Lord, thou moſt migh<g ref="char:EOLunhyphen"/>tie God of all power &amp; ſoueraigntie, who haſt made the heauens and the earth, the ſea &amp; all deepe places, we thy poore ſeruants doo humbly throwe downe our ſelues before thy high maieſty, ac<g ref="char:EOLhyphen"/>knowledging all our manifolde and heynous ſins, crauing entirely par<g ref="char:EOLhyphen"/>don and forgiuenes of them all for thy ſonne Chriſte Ieſus his ſake, &amp; namelie, our vnpreparedneſſe to thys ſo holie a duetye of Prayer:
+<pb facs="tcp:8974:37"/> intreating thy good Maieſty to be<g ref="char:EOLhyphen"/>hold vs in thy fauour, and to receiue vs into thy bleſſed protection, that ſith wee are by thee aſsigned our la<g ref="char:EOLhyphen"/>bours in the mightie deepes, that in the ſweat of our browes, with dan<g ref="char:EOLhyphen"/>ger of our liues, we ſhould therin tra<g ref="char:EOLunhyphen"/>uell for our lawfull maintenaunce, it may pleaſe thy good maieſtie to proſper the worke of our handes, &amp; to guide vs in all our actions, to de<g ref="char:EOLhyphen"/>fende vs from all dangers, eyther of ennemies ſeeking our life or goods, or of the merciles ſongs and ſwallo<g ref="char:EOLhyphen"/>wing ſandes, or of ſtormie wyndes, and raging tempeſtes, or of any o<g ref="char:EOLhyphen"/>ther diſtreſſe whatſoeuer, that bety<g ref="char:EOLhyphen"/>deth ſuch as trauell therein. Thou mighteſt ô Lord we confeſſe, take aduauntage to make our voyages &amp; fiſhings vnproſperous, to ſpoile our goods, to betray vs vnto enemies, to ſwallow vs vppe in the bottomleſſe Gulfe of the Seas, becauſe wee haue not feared thee with reuerence, haue not obeyed thy worde, haue beene
+<pb facs="tcp:8974:37"/> careleſſe of thy ſeruice, vnthankfull for our former deliueraunces &amp; ſuc<g ref="char:EOLhyphen"/>ceſſe, diſtruſtfull of thy prouidence, repyning at thy hand in our loſſes, forgetfull of thy great and maruai<g ref="char:EOLhyphen"/>lous workes, we haue gathered ini<g ref="char:EOLhyphen"/>quity, and haue beene ſtayned with the corrupt manners of other naty<g ref="char:EOLhyphen"/>ons, haue blaſphemed thy name, paſſed our daies in ryotte, forgotten thee vpon the ſhoare, though lately come out of feareful daungers, wee haue beene wanton, ſtubborne, and vnruly, ſo as we haue freighted our Veſſels more with ſinne, vanity, &amp; vngodlines, then with goods or la<g ref="char:EOLhyphen"/>ding, ſo as it is maruaile wee haue not ſuncken in the rolling ſeas, and deſcended down to hel, but that thy mercie hath kept vs. But ô Lorde e<g ref="char:EOLhyphen"/>uen our God, thou that tameſt <hi>Le<g ref="char:EOLhyphen"/>uiathan,</hi> and ſmiteſt the heads of the dragons of the deepe, ſmite our ſto<g ref="char:EOLhyphen"/>ny hearts with the liuely ſenſe of our ſinnes, humble vs vnto repen<g ref="char:EOLhyphen"/>taunce, turne thy diſpleaſure from
+<pb facs="tcp:8974:38"/> vs, deal not with vs according to our tranſgreſſions, but according to thy mercies, we appeale to the throne of thy grace, waſh vs in the bloode of thy ſonne from all our ſinnes, renue our harts dailie to thy will, &amp; to the obedience of thy word, that we may make conſcience to heare it with re<g ref="char:EOLhyphen"/>uerence when we may, for ó Lorde in this one thing, thou haſt abrid<g ref="char:EOLhyphen"/>ged thoſe that farre trauaile on the Seas, &amp; into diuers countries, of the dailie vſe of the miniſtrye of thy word and ſacraments, which other enioye tarrying at home, which is ſome pettie iudgme<g ref="char:cmbAbbrStroke">̄</g>t of thine, to hu<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ble vs, &amp; make vs more carefull. O lord ſtir vs vp therefore to the rea<g ref="char:EOLhyphen"/>ding of thy word in our trauelling, &amp; to ſuch other exerciſes carefullie and faithfullie, that we may be zea<g ref="char:EOLhyphen"/>lous of thy glorie, thankfull for thy mercies &amp; daily benefits, confident to truſt in thy prouidence in all e<g ref="char:EOLhyphen"/>ſtates, patient in troubles, without murmuring, watchful ouer our ſelus that we be not defiled with the cor<g ref="char:EOLhyphen"/>ruptions
+<pb facs="tcp:8974:38"/> of other places, yea Lord, teach vs to auoid all ſwearing, dron<g ref="char:EOLunhyphen"/>kennes, ryot, exces, fornication ido<g ref="char:EOLhyphen"/>latry, conte<g ref="char:cmbAbbrStroke">̄</g>pt, iniury, deceit, lying, quarrelling, and all vncleanes, that both when we are on the ſeas &amp; on the ſhoare we may feare, glorifie, &amp; praiſe thy moſt holy name, gouerne vs ó lord in our deedes, words &amp; in our gouernment, as alſo our co<g ref="char:cmbAbbrStroke">̄</g>pany that they may obey &amp; be ſubiect to al chriſtian diſcipline, that ſo thou mighteſt proſper vs in al our affairs increaſing the fruit of our labors, de<g ref="char:EOLunhyphen"/>fending vs fro<g ref="char:cmbAbbrStroke">̄</g> our enemies, fro<g ref="char:cmbAbbrStroke">̄</g> rob<g ref="char:EOLhyphen"/>beries, loſſes &amp; al dau<g ref="char:cmbAbbrStroke">̄</g>gers, &amp; finally bring vs ſafely to the port &amp; Hauen of our deſire: ó lord make vs truely thankfull vnto thee for our former deliuerances &amp; benefits, and if euer thou ſhalt croſſe vs by any los, hin<g ref="char:EOLhyphen"/>drance or afflictio<g ref="char:cmbAbbrStroke">̄</g> for our ſins, hu<g ref="char:cmbAbbrStroke">̄</g>ble vs therin, let vs acknowledg thy ha<g ref="char:cmbAbbrStroke">̄</g>d therin with thankfulnes &amp; patience, that we may therby be ſpurred for<g ref="char:EOLhyphen"/>ward to the reforming of our liues. Bee thou with vs on the boyſtrous
+<pb facs="tcp:8974:39"/> ô Lord in thy name wee hoyſe our ſayles, and launche foorth into the depe, be preſent with vs in our trou<g ref="char:EOLunhyphen"/>bles and dangers, heare vs &amp; deliuer vs when we call vpon thee, for great are the daungers that we ſayle in e<g ref="char:EOLhyphen"/>uerie way, but thou art our God, we truſt in thee, oh ſaue vs, guide vs, protect vs, deliuer vs, that wee may ſtill liue to prayſe thee. VVe com<g ref="char:EOLhyphen"/>mit Lord our ſelues, our ſhyps, our goods and liues into thy hand, both this day or night, and euer heereaf<g ref="char:EOLhyphen"/>ter to bee preſerued at thy pleaſure, and let vs neuer forget all thy mar<g ref="char:EOLhyphen"/>uailous works. O Lord wee praye thee bleſſe all our freendes and kyn<g ref="char:EOLhyphen"/>dred on the land, our wyues, parents children, maſters, families, or whom<g ref="char:EOLunhyphen"/>ſoeuer, that are tyed to vs by anye band of freendſhip or nature in the Lord. Finally, Lord wee pray thee frame our ſoules to all duties of ho<g ref="char:EOLhyphen"/>lines towards thy maieſty, increa<g ref="char:EOLhyphen"/>ſing all true fayth, feare and loue in vs towardes thee, inflaming our
+<pb facs="tcp:8974:39"/> hartes with all chriſtian loue to our brethren for thy ſake. Theſe things if thou ſhalt performe vnto vs O Lord our God, wee ſhall neuer for<g ref="char:EOLhyphen"/>get to praiſe and magnifie thy holy name therefore. Theſe things ô lord with all other graces neceſſarye for vs, for thy whole church, for all na<g ref="char:EOLhyphen"/>tions, people, and for all our brethre<g ref="char:cmbAbbrStroke">̄</g>, and for all degrees, wee hu<g ref="char:cmbAbbrStroke">̄</g>bly craue the ſame at thy maieſties hande, in the name &amp; mediation of thy ſon Chriſte Ieſus, ſaying as hee hath taught vs. <hi>Our father which art in heauen, hallowed he thy name. &amp;c.</hi>
+            </p>
+            <closer>O Lord increaſe our fayth and obedience toward thee and thy worde. Amen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
